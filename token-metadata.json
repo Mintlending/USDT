@@ -2,6 +2,6 @@
   "name": "USDT",
   "symbol": "USDT",
   "description": " ",
-  "image": "https://raw.githubusercontent.com/Mintlending/USDT/main/logo.png",
+  "image": "https://usdt-metadata.vercel.app/logo.png",
   "attributes": []
 }
