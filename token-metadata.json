@@ -1,0 +1,7 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "USDT token on Solana",
+  "image": "https://raw.githubusercontent.com/Mintlending/USDT/main/logo.png",
+  "attributes": []
+}
